@@ -1,0 +1,11 @@
+U1, U2: 2 db SN74LS191N — TI — LCSC: C1523316 — PDIP-16.  4 bites szinkron fel/le számláló
+U5, U6, U7: 3 db SN74LS190N(XBLW) — XBLW — LCSC: C42451383 — DIP-16. számláló
+U8, U9, U10: 3 db SN74LS47N(LX) — lingxingic — LCSC: C22466302 — DIP-16.
+U4: 1 db SN74LS08N — TI — LCSC: C2869595 — PDIP-14. Ez a négyszeres 2 bemenetű AND kapu.
+Órajel / U3 helyett valós alkatrész: 1 db NE555P — TI — LCSC: C46749 — DIP-8.
+S1: 1 db DS1040-08RN — CONNFLY — LCSC: C3024974 — 8 állású THT DIP kapcsoló.
+S2: 1 db B3W-1002 — OMRON — LCSC: C231331 — THT nyomógomb.
+U11, U12, U13: 3 db SM410561N — ARKLED — LCSC: C141368 — 1 digites, common-anode, THT, 0.56" 7-szegmenses kijelző.
+8db R = 220 Ohm
+2db 8 LEDBAR helyett vagy 1 16-os ladbar vagy 16db led
+2db led
